@@ -15,7 +15,7 @@ INSERT INTO Employee VALUES
 (106,'Sneha','Finance',65000),
 (107,'Arjun','IT',80000),
 (108,'Meena','HR',60000);
-SELECT * FROM Employee;
+SELECT * FROM Employee; 
 SELECT
     EmployeeID,
     EmployeeName,
